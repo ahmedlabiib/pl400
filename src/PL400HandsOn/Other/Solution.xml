@@ -83,10 +83,6 @@
     </RootComponents>
     <MissingDependencies>
       <MissingDependency>
-        <Required type="1" schemaName="account" displayName="Account" parentSchemaName="" solution="System (5.0)" />
-        <Dependent type="1" schemaName="account" displayName="Account" />
-      </MissingDependency>
-      <MissingDependency>
         <Required type="1" schemaName="activitypointer" displayName="ActivityPointer" parentSchemaName="" solution="EmailDescriptionBlobStore_XRM (1.8)" />
         <Dependent type="1" schemaName="activitypointer" displayName="ActivityPointer" />
       </MissingDependency>
