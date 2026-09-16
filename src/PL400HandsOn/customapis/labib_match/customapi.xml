@@ -1,0 +1,18 @@
+<customapi uniquename="labib_match">
+  <allowedcustomprocessingsteptype>0</allowedcustomprocessingsteptype>
+  <bindingtype>0</bindingtype>
+  <description default="Match a string">
+    <label description="Match a string" languagecode="1033" />
+  </description>
+  <displayname default="Match">
+    <label description="Match" languagecode="1033" />
+  </displayname>
+  <iscustomizable>1</iscustomizable>
+  <isfunction>0</isfunction>
+  <isprivate>0</isprivate>
+  <name>Match</name>
+  <plugintypeid>
+    <plugintypeexportkey>79bc69a4-723b-48be-a30b-afe104d4ca3c</plugintypeexportkey>
+  </plugintypeid>
+  <workflowsdkstepenabled>0</workflowsdkstepenabled>
+</customapi>

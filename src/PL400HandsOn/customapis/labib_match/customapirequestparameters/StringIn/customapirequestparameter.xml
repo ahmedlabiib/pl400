@@ -1,0 +1,12 @@
+<customapirequestparameter uniquename="StringIn">
+  <description default="StringIn">
+    <label description="StringIn" languagecode="1033" />
+  </description>
+  <displayname default="StringIn">
+    <label description="StringIn" languagecode="1033" />
+  </displayname>
+  <iscustomizable>1</iscustomizable>
+  <isoptional>0</isoptional>
+  <name>StringIn</name>
+  <type>10</type>
+</customapirequestparameter>

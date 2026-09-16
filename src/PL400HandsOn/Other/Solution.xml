@@ -80,6 +80,7 @@
     <RootComponents>
       <RootComponent type="1" schemaName="account" behavior="0" />
       <RootComponent type="1" schemaName="activitypointer" behavior="0" />
+      <RootComponent type="29" id="{fd6f981d-04b2-f111-aaac-e4fb1ef76a6f}" behavior="0" />
     </RootComponents>
     <MissingDependencies>
       <MissingDependency>
@@ -97,6 +98,10 @@
           <package appName="Power Pages Core Package" version="1.1.2605.258">PowerPages_Core (1.1.2605.258)</package>
         </Required>
         <Dependent type="1" schemaName="account" displayName="Account" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required type="90" schemaName="CustomAPILab.MatchPlugin, CustomAPILab, Version=1.0.0.0, Culture=neutral, PublicKeyToken=0c9764e2a35c4aa2" displayName="CustomAPILab.MatchPlugin" solution="Active" id="{79bc69a4-723b-48be-a30b-afe104d4ca3c}" />
+        <Dependent type="CustomAPI" displayName="labib_match" id.uniquename="labib_match" />
       </MissingDependency>
     </MissingDependencies>
   </SolutionManifest>

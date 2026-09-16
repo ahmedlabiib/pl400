@@ -1,0 +1,11 @@
+<customapiresponseproperty uniquename="Matched">
+  <description default="Matched">
+    <label description="Matched" languagecode="1033" />
+  </description>
+  <displayname default="Matched">
+    <label description="Matched" languagecode="1033" />
+  </displayname>
+  <iscustomizable>1</iscustomizable>
+  <name>Matched</name>
+  <type>0</type>
+</customapiresponseproperty>

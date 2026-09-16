@@ -11,6 +11,16 @@
   <optionsets />
   <CustomControls />
   <EntityDataProviders />
+  <connectionreferences>
+    <connectionreference connectionreferencelogicalname="labib_sharedcommondataserviceforapps_20a5c">
+      <connectionreferencedisplayname>Microsoft Dataverse PL400HandsOn-20a5c</connectionreferencedisplayname>
+      <connectorid>/providers/Microsoft.PowerApps/apis/shared_commondataserviceforapps</connectorid>
+      <iscustomizable>1</iscustomizable>
+      <promptingbehavior>0</promptingbehavior>
+      <statecode>0</statecode>
+      <statuscode>1</statuscode>
+    </connectionreference>
+  </connectionreferences>
   <Languages>
     <Language>1033</Language>
   </Languages>
